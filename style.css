@@ -1,0 +1,39 @@
+nav{
+    margin-bottom: 20px;
+}
+
+main{
+    padding: 10px;
+}
+
+.firstsection{
+    margin: 20px;
+}
+
+.form-control{
+    width: 150px;
+    height: 30px;
+}
+.inbt{
+    width: 60px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.secondsection{
+    margin: 30px;
+}
+
+.titlebox{
+    width: 600px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+.writebox{
+    width: 654px;
+    height: 400px;
+    padding: 2px;
+}
+.cobutton
