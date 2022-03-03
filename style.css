@@ -1,6 +1,11 @@
 nav{
     margin-bottom: 20px;
 }
+.logoimege{
+    width: 100px;
+    height: 50px;
+    margin: 15px;
+}
 
 main{
     padding: 10px;
@@ -36,4 +41,4 @@ main{
     height: 400px;
     padding: 2px;
 }
-.cobutton
+
